@@ -3,7 +3,7 @@
 
 + How do you find the missing number in a given integer array of 1 to 100? (solution)
 + How do you find the duplicate number on a given integer array? (solution)
-+ How do you find the largest and smallest number in an unsorted integer array?(find_max_min.py)
++ [How do you find the largest and smallest number in an unsorted integer array?](find_max_min.py)
 + How do you find all pairs of an integer array whose sum is equal to a given number? (solution)
 + How do you find duplicate numbers in an array if it contains multiple duplicates? (solution)
 + How are duplicates removed from a given array in Java? (solution)
@@ -57,7 +57,7 @@
 + [How do u check whether list is sorted or not?](is_list_sorted.py)
 + [How do u create a value counter?](value_counter.py)
 + [How do u group dicts?](group_dicts.py)
-+ [How do u write a fibo function?)(fibo.py)
++ [How do u write a fibo function?](fibo.py)
 + [How do u write euclid's algorithm function?](euclids.py)
 ### Misc
 
