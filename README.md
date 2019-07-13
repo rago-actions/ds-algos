@@ -3,6 +3,7 @@
 https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 
 Arrays
+* [How do you shuffle a string link] (../string_shuffle.py)
 * How do you find the missing number in a given integer array of 1 to 100? (solution)
 * How do you find the duplicate number on a given integer array? (solution)
 * How do you find the largest and smallest number in an unsorted integer array? (solution)
