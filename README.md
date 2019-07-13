@@ -66,3 +66,4 @@
 ### Systems
 + [How do you write a wrapper script for a shell command to run? file](run_cmd.py)
 + [how do delete a directory file](rmdir.py)
++ [how do you generate a password for your choice size? file](passwdgen.py)
