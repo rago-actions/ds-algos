@@ -61,7 +61,7 @@
 + How is a radix sort algorithm implemented? (solution)
 + How do you swap two numbers without using the third variable? (solution)
 + How do you check if two rectangles overlap with each other? (solution)
-+  How do you design a vending machine? (solution)
++ [How do you create a custom range function?](custom_range.py)
 
 ### Systems
 + [How do you write a wrapper script for a shell command to run?](run_cmd.py)
