@@ -1,0 +1,8 @@
+import string
+import random
+
+def pw_gen(size, chars=string.ascii_letters + string.digits ):
+	return ''.join(random.choice(chars) for _ in range(size))
+
+#print(pw_gen(int(input('How many characters in your password?'))))
+print pw_gen(16)
