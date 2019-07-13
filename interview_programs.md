@@ -23,7 +23,7 @@
 + How do you find the sum of two linked lists using Stack? (solution)
 
 ### Strings
-+ [How do you shuffle a string file]: (./string_shuffle.py)
++ [How do you shuffle a string file](string_shuffle.py)
 + How do you print duplicate characters from a string? (solution)
 + How do you check if two strings are anagrams of each other? (solution)
 + How do you print the first non-repeated character from a string? (solution)
@@ -64,5 +64,5 @@
 +  How do you design a vending machine? (solution)
 
 ### Systems
-+ [How do you write a wrapper script for a shell command to run? file] (../run_command.py)
-+ [how do delete a directory file] (../rmdir.py)
++ [How do you write a wrapper script for a shell command to run? file] (run_command.py)
++ [how do delete a directory file] (rmdir.py)
