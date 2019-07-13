@@ -64,5 +64,5 @@
 +  How do you design a vending machine? (solution)
 
 ### Systems
-+ [How do you write a wrapper script for a shell command to run? file] (run_command.py)
-+ [how do delete a directory file] (rmdir.py)
++ [How do you write a wrapper script for a shell command to run? file](run_cmd.py)
++ [how do delete a directory file](rmdir.py)
