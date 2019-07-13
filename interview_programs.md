@@ -23,7 +23,7 @@
 + How do you find the sum of two linked lists using Stack? (solution)
 
 ### Strings
-+ [How do you shuffle a string file] (./string_shuffle.py)
++ [How do you shuffle a string file]: (./string_shuffle.py)
 + How do you print duplicate characters from a string? (solution)
 + How do you check if two strings are anagrams of each other? (solution)
 + How do you print the first non-repeated character from a string? (solution)
