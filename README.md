@@ -59,9 +59,11 @@
 + [How do u group dicts?](group_dicts.py)
 + [How do u write a fibo function?](fibo.py)
 + [How do u write euclid's algorithm function?](euclids.py)
+
 ### Misc
 
-+ How is a bubble sort algorithm implemented? (solution)
++ [How do you create an enumrate function?](enum.py)
++ [How do you create a zip() functin?](zip.py)
 + How is an iterative quicksort algorithm implemented? (solution)
 + How do you implement an insertion sort algorithm? (solution)
 + How is a merge sort algorithm implemented? (solution)
