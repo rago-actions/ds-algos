@@ -1,5 +1,5 @@
 
-## Lists
+### Lists
 1. [Remove even integers from List](remove_even.py)
 2. [Merge two sorted lists](merge_lists.py)
 3. [List of products of all elements](find_product.py)
@@ -9,18 +9,14 @@
 7. [Rearrange Positive and Negative values](rearrange_positive_negative.py)
 8. [Rearrange Sorted List in Max/Min form](rearrange_max_min.py)
 9. [Maximum Sum sublist](max_sum_sublist.py)
-## Arrays
-
+### Arrays
 + [How do you find the largest and smallest number in an unsorted integer array?](find_max_min.py)
-
 ### Numbers
 1. [Single Number](single_number.py)
 2. [Happy Number](happy_number.py)
+
 ### Strings
 + [How do you shuffle a string](string_shuffle.py)
-
-### Binary Tree
-
 ### Recursion
 + [How do u write a power function?](power.py)
 + [How do u write a countdown function?](countdown.py)
@@ -30,7 +26,6 @@
 + [How do u group dicts?](group_dicts.py)
 + [How do u write a fibo function?](fibo.py)
 + [How do u write euclid's algorithm function?](euclids.py)
-
 ### Misc
 + [How do you create an enumrate function?](enum.py)
 + [How do you create a zip() functin?](zip.py)
