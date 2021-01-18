@@ -1,11 +1,17 @@
 #Value counter
 #method1
-counter = {}
-for item in items:
-    if item in counter.keys():
-        counter[item] += 1
-    else:
-        counter[item] = 1
+def length(iterator):
+    count = 0
+    for item in iterator:
+        count += 1
+    return count
+
+def count(iterator, itm):
+    count = 0
+    for item in iterator:
+        if item == itm:
+            count += 1
+    return count
 
 #method2
 from collections import defaultdict
